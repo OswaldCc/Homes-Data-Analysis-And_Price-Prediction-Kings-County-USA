@@ -14,7 +14,7 @@ We have data collected on homes that were sold in King's County in 2015.
 This project uses exploratory analysis, to analyze the datasets so as to summarize their main characteristics using statistical methods and visualisations.
 
 ## Results
- -The houses with an overall condition of about 3 and 4 seem to have the highest sale price. This is a suprise as you would expect the ones with an overall condition of about 5 to have the highest sale price.The rating index is from (1-5)
+ -The houses with an overall condition of about 3 and 4 seem to have the highest sale price. This is a suprise as you would expect the ones with an overall condition of about 5 to have the highest sale price.The rating index is from (1-5). Most houses sold had an above average condition.
  -The number of bathrooms have a linear relationship to the price. The number of bathrooms could therefore contribute to the overall price of the house.
  -Price increases with the number of bedrooms upto around where we have 12 bedrooms. The price also increases from 12 to 33 bedrooms but there is a decrease in the slope meaning the impact of the number of bedrooms to the price decreases as soon as we get to about 12.
  -The most expensive houses have about two floors. One suprising inference is that those with one floor are more expensive as compared to those with three floors.
