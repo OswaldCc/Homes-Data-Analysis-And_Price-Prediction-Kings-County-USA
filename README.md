@@ -43,3 +43,14 @@ This analysis leads to the following recommendations for the real estate agency:
 -The real estate agency should advise those looking to sell their homes to achieve a view rating higher than two. Most houses sold have a view rating higher than two and they tend to go for higher prices.
 
 -Most houses sold in the King's County area are averagely priced and the real estate agency should advise people looking to sell to have averagely priced homes.
+
+## Repository Structure
+```
+├── images                
+├── column_names.md.txt                  
+├── EDA.ipynb                   
+├── index.ipynb                
+├── kc_house_data.csv 
+├── phase2Presentation.pdf               
+├── README.md
+ ```
